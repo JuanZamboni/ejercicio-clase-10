@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.Encabezado{
+color: green;
+background-color: aliceblue;
+width: 100%; 
+height: 100px;
+margin: 10px;
+font-family: "Roboto";
+}
+
+ul li{
+    list-style: none; 
+}
+
+.Encabezado_titulo{
+text-align: justify;
+}
+
+#listaencabezado ul li{
+   text-align: center;
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+}  
+ 
+
+.imagen{
+    width: 100%;
+    height: 400px;
+}
+
+.contenedor{
+    background-color: darkgray ;
+    list-style-type:none;
+    display: flex;
+    align-items: center;
+  display: flex;
+  justify-content: center;
+
+}
+
+.contenedor_horario{
+    color: aliceblue;
+    background-color: gray;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    font-family: "Roboto";
+    border-style:double;
+    padding: 10px;
+}
+
+.contenedor_envios{
+    color: aliceblue;
+    background-color: gray;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    font-family: "Roboto";
+    border-style:double;
+    padding: 10px;
+    text-align: center;
+}
+
+.contenedor_pago{
+    color: aliceblue;
+    background-color: gray;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    font-family: "Roboto";
+    border-style:double;
+    padding: 10px;
+}
+
+.piedepagina{
+    background-color: darkgray ;
+    list-style-type:none;
+    display: flex;
+    align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.banner{
+    width: 100%;
+
+}
+
+.ubicacion{
+    color: aliceblue;
+    background-color: gray;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    font-family: "Roboto";
+    border-style:double;
+    padding: 10px;
+}
+
+.links_pie{
+    list-style-type: none;
+    color: aliceblue;
+    background-color: gray;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    font-family: "Roboto";
+    border-style:double;
+    padding: 10px;
+    font-size:small;
+}
+
+.ayuda{
+    color: aliceblue;
+    background-color: gray;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    font-family: "Roboto";
+    border-style:double;
+    padding: 10px;
+}
